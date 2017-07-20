@@ -18,6 +18,12 @@ python manage.py runserver # starts the server
 open browser and go to link:
  http://127.0.0.1:8000/images/
 
+Tested file:
+-Choose the zip/image file (unique),
+-Click POST,
+-Link will be on top,
+
+
 ## REQUIREMENTS:
 -Python 3.4+
 -Django 1.11
