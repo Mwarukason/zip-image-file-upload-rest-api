@@ -6,7 +6,6 @@ from django.db import models
 from zipfile import ZipFile
 from django.contrib import messages
 
-# Our main app model: ImageUploaded
 
 def format_uploaded_filename(instance, filename):
     # if is_zipfile(filename):
